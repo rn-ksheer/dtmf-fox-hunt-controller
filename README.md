@@ -11,7 +11,7 @@ Remote DTMF commands are received by the fox radio, decoded by the Arduino, and 
 Audio files can also be replaced or customized directly on the SD card without modifying the transmitter hardware.
 
 ### Background / Motivation
-Towards the end of 2024, Rajan Sir (VU2JXM) approached me with his requirement to build a Fox Hunt Transmitter. I started by studying existing designs, including an [Instructables project](https://www.instructables.com/HAM-Radio-Foxhunt-Transmitter-for-CW-or-Morris-Cod/) and a [YouTube video](https://www.youtube.com/watch?v=e4b0fNvXA10).
+Towards the end of 2024, Rajan Sir (VU2JXM) approached me with his requirement to build a Fox Hunt Transmitter. I started by studying existing designs, including an [Instructables project](https://www.instructables.com/HAM-Radio-Foxhunt-Transmitter-for-CW-or-Morris-Cod/) and YouTube videos: https://www.youtube.com/watch?v=e4b0fNvXA10 https://www.youtube.com/watch?v=SL353Il93vI https://www.youtube.com/watch?v=w5HwckW3P3s
 
 My first build followed the Instructables design using a relay and an Adafruit Sound Board provided by Rajan Sir. After working with it, I found the Sound Board expensive and difficult to source, so I replaced it with a locally available **DFPlayer Mini**.
 
@@ -375,41 +375,38 @@ https://youtube.com/shorts/dZy0cm5D07w?si=wkH52YXZsJ08Ufbp
 -->
 ## 🎥 Testing Videos
 
-   > ### v3      
+   > ### v3
+ 
 <div align="left">
  
+<a href="https://www.youtube.com/watch?v=flpcK-0eZjw">
+  <img src="https://img.youtube.com/vi/flpcK-0eZjw/hqdefault.jpg" alt="Video 1" width="400" />
+</a>
+
+  ---
+
+  > ### v2
+
 #### ▶️Video-1
   <a href="https://youtu.be/06isKHrUTCU">
     <img src="https://img.youtube.com/vi/06isKHrUTCU/hqdefault.jpg" alt="Video 1" width="400" />
   </a>
-  <br><br>
   
 #### ▶️Video-2
   <a href="https://youtube.com/shorts/4rrsjFn369g">
     <img src="https://img.youtube.com/vi/4rrsjFn369g/hqdefault.jpg" alt="YouTube Short 1" width="400" />
   </a>
-  <br><br>  
   
 #### ▶️Video-3
   <a href="https://youtube.com/shorts/dZy0cm5D07w">
     <img src="https://img.youtube.com/vi/dZy0cm5D07w/hqdefault.jpg" alt="YouTube Short 2" width="400" />
   </a>
 
-  ---
-
-  > ### v2
-
-
-
 ---
-  > ### v1(Media Files not available)
+  > ### v1
+ 
 
 </div>
-
-
-
-
-
 
 
 ---
