@@ -11,7 +11,10 @@ Remote DTMF commands are received by the fox radio, decoded by the Arduino, and 
 Audio files can also be replaced or customized directly on the SD card without modifying the transmitter hardware.
 
 ### Background / Motivation
-Towards the end of 2024, Rajan Sir (VU2JXM) approached me with his requirement to build a Fox Hunt Transmitter. I started by studying existing designs, including an [Instructables project](https://www.instructables.com/HAM-Radio-Foxhunt-Transmitter-for-CW-or-Morris-Cod/) and YouTube videos: https://www.youtube.com/watch?v=e4b0fNvXA10 https://www.youtube.com/watch?v=SL353Il93vI https://www.youtube.com/watch?v=w5HwckW3P3s
+Towards the end of 2024, Rajan Sir (VU2JXM) approached me with his requirement to build a Fox Hunt Transmitter. I started by studying existing designs, including an [Instructables project](https://www.instructables.com/HAM-Radio-Foxhunt-Transmitter-for-CW-or-Morris-Cod/) and YouTube videos:<br></br>
+https://www.youtube.com/watch?v=e4b0fNvXA10 <br></br>
+https://www.youtube.com/watch?v=SL353Il93vI <br></br>
+https://www.youtube.com/watch?v=w5HwckW3P3s <br></br>
 
 My first build followed the Instructables design using a relay and an Adafruit Sound Board provided by Rajan Sir. After working with it, I found the Sound Board expensive and difficult to source, so I replaced it with a locally available **DFPlayer Mini**.
 
