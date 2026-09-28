@@ -392,7 +392,7 @@ https://youtube.com/shorts/dZy0cm5D07w?si=wkH52YXZsJ08Ufbp
 
 #### ▶️Video-1
   <a href="https://youtu.be/06isKHrUTCU">
-    <img src="https://img.youtube.com/vi/06isKHrUTCU/hqdefault.jpg" alt="Video 1" width="400" />
+    <img src="https://img.youtube.com/vi/06isKHrUTCU/hqdefault.jpg" alt="Video 2" width="400" />
   </a>
   
 #### ▶️Video-2
@@ -407,7 +407,10 @@ https://youtube.com/shorts/dZy0cm5D07w?si=wkH52YXZsJ08Ufbp
 
 ---
   > ### v1
- 
+
+<a href="http://www.youtube.com/watch?v=4dnPtTvA2Ys">
+  <img src="https://img.youtube.com/vi/4dnPtTvA2Ys/hqdefault.jpg" alt="Video 3" width="400" />
+</a>
 
 </div>
 
@@ -438,6 +441,7 @@ If you use, modify, or redistribute this project, please give credit to the orig
 
 Listen. Track. Find the Fox.
 
-73 de **VU25RK**
+**73's de** <br>
+<img src="https://github.com/user-attachments/assets/532fdf89-b5be-4370-8da9-908cc61fd0e5" alt="vu25rk logo" width="15%">  <br> (OLD-VU3CQM)
 
 ---
